@@ -2,7 +2,7 @@
 
 do {
   var creditCard = parseInt(prompt("Ingrese el numero de tarjeta de credito");
-}   while (!creditCard) ;
+} while (!creditCard);
 
 
 function isValidCard (creditCard) {
